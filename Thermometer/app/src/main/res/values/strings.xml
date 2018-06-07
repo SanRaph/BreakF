@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Thermometer</string>
+    <string name="no_temperature_found">No temperature sensor found!</string>
+</resources>
